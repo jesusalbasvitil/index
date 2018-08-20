@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>PORTADA</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+      div { 
+      width: 100%;
+      height: 50px;
+      background-color: #000000;
+      }/*Fondo*/
+      .centro {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .menu {
+        display:grid;
+        justify-content: center;
+        align-items:center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class='centro'><h1><font color="#ffffff">En qué estamos trabajando [PORTADA]</font></h1></div>
+    <div class='menu'><font color="#ffffff"><b>[PORTADA]  | <a class="link" href="lovesteppe.html"> #LoveSteppe</a> | #solymoscas | #watchwildlife!</b></font></div>
+    <img src="P1510858.JPG"width="331" height="248" alt="Descripción de la imagen" align="left" vspace="25" hspace="25">
+    <h2>#LoveSteppe | #Parkinsonia</h2>
+    <p><ig>sábado, 18 de agosto de 2018</ig> <ht>#LoveSteppe</ht> Muchos, cuando volvemos, bajamos por el <ht>#VarelloZorras</ht>, una estrecha val con algún "ensache". Cultivada. Donde "pacen" perdices con sus "perdiganas". Algunos vaciamos lo que nos queda de agua al pie de un árbol cuidado con mimo, una <ht>#Parkinsonia</ht> aculeata. Hoy, en flor</p><hr>
+    <h2>#LoveSteppe | #BarrancoDelPlatero</h2>
+    <p><ig>viernes, 17 de agosto de 2018</ig>
+    <p>1 Atrás han quedado muchos días de calor que han borrado casi todo rastro de la primavera pasada. De los secanos que se suceden a lo largo de la pista del <ht>#BarrancoDelPlatero</ht>, algunos abandonados, sin cosechar siquiera. Con sus trigos doblados por el peso. Otros ya labrados..</p>
+    <p>2..y cubiertos de un espeso manto verde pálido de capitanas (<ht>Salsola kali</ht>) y ocultas entre ellas, un bando de una veintena de torcaces.</p>
+    <p><be>It have been left behind many hot days that have erased almost all traces of last spring. Of the dry lands that occur along the track of <ht>#BarrancoDelPlatero</ht>, some abandoned, without even harvesting. With their wheats folded by the weight. Others, already worked ..and covered with a thick pale green mantle of <ht>#Salsola kali</ht> and hidden among them, an about twenty wood pigeons.</be></p>
+    <p>3 El barranco asciende y se estrecha, las laderas ganan pendiente, así como el romeral; salpicado con algún ejemplar raro de <ht>#Ononis tridentata</ht>, donde han quedado enganchados los restos de las capitanas del año pasado. Ahí se quedarán, pudriéndose sin prisa. [<a class="link" href="lovesteppe.html">más</a>]</p>
+    <div class='centro'><font color="#ffffff"><b>[PORTADA]  | <a class="link" href="lovesteppe.html"> #LoveSteppe</a> | #solymoscas | #watchwildlife</b></font></div>
+  </body>
+</html>
