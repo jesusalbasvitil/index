@@ -1,3 +1,18 @@
+# 1. Listado de proyectos con dos o más DIAs negativas y de repente sale una positiva y valoración de que deberían haber sido negativas
+<pre>Fuente: Forwarded message ---------
+De: Luis Tirado Blázquez <ltirado@seo.org>
+Date: vie, 7 jul 2023 a las 13:43
+Subject: RE: Tareas pendientes legal
+To: Jesús Alba <jesusalbasvitil@gmail.com></pre>
+
+
+
+
+
+
+
+----
+
 ## Introducción a la deconstrucción de las DIAs [Lógica inversa] <keywords>eólica declaración incompatible</keywords>
 Ante la avalancha de proyectos de energías renovables se constataba usualmente un protocolo común que finalizaba con la DIA positiva o negativa. Recientemente se ha observado que algunos PEs y PFVs seguían itinerarios diferentes:
 - DIAs positivos pese al impacto severo sobre la fauna
